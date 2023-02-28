@@ -57,3 +57,5 @@ else
         -report $report \
         -topk $topk
 fi
+
+$SHELL
